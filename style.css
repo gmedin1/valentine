@@ -89,10 +89,10 @@ header {
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, 1fr);
-  height: 60vh;
+  height: 70vh;
   overflow-x: hidden;
   margin-left: -1.5rem;
-  width: 100%;
+  width: 100vh;
 }
 .gallery-item {
   height: 60vh;
