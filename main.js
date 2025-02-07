@@ -31,7 +31,7 @@ btn3.addEventListener('click', function (e) {
   v1.innerHTML = `
     <div class="bg-video">
         <video
-          src="./assets/final.mp4"
+          src="./final.mp4"
           constrols="controls"
           autoplay="autoplay"
           playsinline="playsinline"

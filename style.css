@@ -120,7 +120,7 @@ p.text-xl {
   width: 20rem;
 }
 .btn::before {
-  background-image: url('./assets/millonarios.png');
+  background-image: url('./millonarios.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -134,7 +134,7 @@ p.text-xl {
   width: 3rem;
 }
 .btn::after {
-  background-image: url('./assets/millonarios.png');
+  background-image: url('./millonarios.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
